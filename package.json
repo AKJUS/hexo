@@ -81,7 +81,7 @@
     "cheerio": "1.0.0",
     "decache": "^4.6.1",
     "eslint": "^8.48.0",
-    "eslint-config-hexo": "^5.0.0",
+    "eslint-config-hexo": "^6.0.0",
     "hexo-renderer-marked": "^6.0.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.3.0",
